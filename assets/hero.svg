@@ -21,7 +21,7 @@
   <circle cx="24" cy="17" r="6" fill="#ef4444"/>
   <circle cx="46" cy="17" r="6" fill="#eab308"/>
   <circle cx="68" cy="17" r="6" fill="#22c55e"/>
-  <text x="450" y="22" text-anchor="middle" fill="#64748b" font-size="12">guest@your-name: ~/portfolio</text>
+  <text x="450" y="22" text-anchor="middle" fill="#64748b" font-size="12">guest@mugheez: ~/portfolio</text>
 
   <!-- typed lines -->
   <g font-size="17" fill="#94a3b8">
@@ -31,7 +31,7 @@
     </text>
 
     <text x="30" y="105" opacity="0" font-size="26" font-weight="700" fill="url(#glow)">
-      Your Name — Full Stack Web Developer
+      Mugheez Asif — Full Stack Web Developer
       <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.6s" fill="freeze"/>
     </text>
 
@@ -49,7 +49,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.4s" fill="freeze"/>
     </text>
     <text x="30" y="239" opacity="0" fill="#4ade80">
-      Leading a 4-person team · building an e-signature platform from scratch
+      Leading a team of 4 · building an E-Signature platform from scratch
       <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.6s" fill="freeze"/>
     </text>
 

@@ -71,6 +71,16 @@ Solo-built full stack platform for a Florida client — architecture to delivery
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ## 📡 Let's Connect
