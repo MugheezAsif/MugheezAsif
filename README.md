@@ -75,7 +75,7 @@ Solo-built full stack platform for a Florida client — architecture to delivery
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/MugheezAsif/MugheezAsif/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
