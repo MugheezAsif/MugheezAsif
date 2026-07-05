@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0f172a,35:0369a1,70:2563eb,100:0ea5e9&text=MUGHEEZ%20ASIF&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=58&animation=twinkling" alt="Animated profile header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=PHP+%26+Laravel+Backend+Developer;React+%26+Bootstrap+Frontend+Developer;MySQL+%C2%B7+REST+APIs+%C2%B7+AWS;Building+clean%2C+scalable+full-stack+web+apps)](https://github.com/MugheezAsif)
+
+<p>
+  <a href="https://github.com/MugheezAsif"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-0369a1?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/YOUR_FIVERR"><img src="https://img.shields.io/badge/Fiverr-80%2B%20Orders-0ea5e9?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0f172a" alt="Fiverr" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MugheezAsif&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
+</p>
+
+<img width="100%" src="./assets/hero.svg" alt="Animated terminal" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,bootstrap,mysql,aws,git,docker&theme=dark" />
 
 </div>
-
-<br/>
-
-> 🧩 I build the backend, wire up the database, ship the frontend, and don't stop until it's in production.
-> Currently leading a small team building an **e-signature + CRM integration platform** from scratch.
 
 <br/>
 

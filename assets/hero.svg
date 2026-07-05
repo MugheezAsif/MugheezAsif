@@ -45,11 +45,11 @@
     </text>
 
     <text x="30" y="212" opacity="0">
-      <tspan fill="#38bdf8">$</tspan> ./status --current
+      <tspan fill="#38bdf8">$</tspan> cat skills.txt
       <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.4s" fill="freeze"/>
     </text>
     <text x="30" y="239" opacity="0" fill="#4ade80">
-      Leading a team of 4 · building an E-Signature platform from scratch
+      PHP · Laravel · React · Bootstrap · MySQL · AWS
       <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.6s" fill="freeze"/>
     </text>
 
