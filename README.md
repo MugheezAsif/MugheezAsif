@@ -91,9 +91,9 @@ Solo-built full stack platform for a Florida client — architecture to delivery
 
 ## 📡 Let's Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.fiverr.com/YOUR_FIVERR"><img src="https://img.shields.io/badge/Fiverr-0f172a?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mugheez-asif-943497245/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:m.mogheesasif@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.fiverr.com/mugheez_asif?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-0f172a?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
 <br/><br/>
 
