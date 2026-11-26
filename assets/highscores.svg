@@ -1,0 +1,73 @@
+<svg width="100%" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', Consolas, 'Courier New', monospace" role="img" aria-label="High scores: 83% faster form conversion, 2,000+ forms, 75% faster listings, 86.84% accuracy, 9+ years">
+  <defs>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="33%" stop-color="#4ade80"/>
+      <stop offset="66%" stop-color="#818cf8"/><stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="50%" stop-color="#818cf8"/><stop offset="100%" stop-color="#38bdf8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="tinyGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.025"/>
+    </pattern>
+    <style>
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }</style>
+  </defs>
+  <rect width="900" height="380" rx="14" fill="#0a0e1a"/>
+  <rect width="900" height="380" rx="14" fill="url(#scan)"/>
+  <rect x="4" y="4" width="892" height="372" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="4" filter="url(#softGlow)" opacity="0.85"/>
+  <rect x="4" y="4" width="892" height="372" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+
+  <text x="450" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="url(#glow)" letter-spacing="8" filter="url(#tinyGlow)">HIGH SCORES</text>
+  <g class="blink"><text x="450" y="84" text-anchor="middle" font-size="11" font-weight="700" fill="#ec4899" letter-spacing="3">★ NEW RECORDS SET IN PRODUCTION ★</text></g>
+  <g font-size="11" fill="#64748b" letter-spacing="2">
+    <text x="80" y="118">RANK</text><text x="320" y="118" text-anchor="end">SCORE</text><text x="360" y="118">NAME</text><text x="430" y="118">STAGE</text>
+  </g>
+  <line x1="70" y1="128" x2="830" y2="128" stroke="#1e293b" stroke-width="1.5"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.25s" fill="freeze"/>
+    <text x="80" y="160" font-size="16" font-weight="700" fill="#facc15">1ST<animate attributeName="fill" values="#facc15;#38bdf8;#4ade80;#818cf8;#ec4899;#facc15" dur="2.5s" repeatCount="indefinite"/></text>
+    <text x="320" y="160" text-anchor="end" font-size="16" font-weight="700" fill="#f1f5f9">83%</text>
+    <text x="360" y="160" font-size="16" font-weight="700" fill="#facc15">MUG</text>
+    <text x="430" y="160" font-size="12.5" fill="#94a3b8">FORM CONVERSION SPEEDUP · MY STATE MLS</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.25s" fill="freeze"/>
+    <text x="80" y="194" font-size="16" font-weight="700" fill="#38bdf8">2ND<animate attributeName="fill" values="#38bdf8;#4ade80;#818cf8;#ec4899;#facc15;#38bdf8" dur="2.5s" repeatCount="indefinite"/></text>
+    <text x="320" y="194" text-anchor="end" font-size="16" font-weight="700" fill="#f1f5f9">2,000+</text>
+    <text x="360" y="194" font-size="16" font-weight="700" fill="#38bdf8">MUG</text>
+    <text x="430" y="194" font-size="12.5" fill="#94a3b8">PRODUCTION FORMS MAPPED WITH RAG</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.25s" fill="freeze"/>
+    <text x="80" y="228" font-size="16" font-weight="700" fill="#4ade80">3RD<animate attributeName="fill" values="#4ade80;#818cf8;#ec4899;#facc15;#38bdf8;#4ade80" dur="2.5s" repeatCount="indefinite"/></text>
+    <text x="320" y="228" text-anchor="end" font-size="16" font-weight="700" fill="#f1f5f9">75%+</text>
+    <text x="360" y="228" font-size="16" font-weight="700" fill="#4ade80">MUG</text>
+    <text x="430" y="228" font-size="12.5" fill="#94a3b8">FASTER LISTINGS · REALTXR (20 → 5 MIN)</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4499999999999997s" dur="0.25s" fill="freeze"/>
+    <text x="80" y="262" font-size="16" font-weight="700" fill="#818cf8">4TH<animate attributeName="fill" values="#818cf8;#ec4899;#facc15;#38bdf8;#4ade80;#818cf8" dur="2.5s" repeatCount="indefinite"/></text>
+    <text x="320" y="262" text-anchor="end" font-size="16" font-weight="700" fill="#f1f5f9">86.84%</text>
+    <text x="360" y="262" font-size="16" font-weight="700" fill="#818cf8">MUG</text>
+    <text x="430" y="262" font-size="12.5" fill="#94a3b8">DECISION-TREE ACCURACY · IEEE HITE 2024</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.7999999999999998s" dur="0.25s" fill="freeze"/>
+    <text x="80" y="296" font-size="16" font-weight="700" fill="#ec4899">5TH<animate attributeName="fill" values="#ec4899;#facc15;#38bdf8;#4ade80;#818cf8;#ec4899" dur="2.5s" repeatCount="indefinite"/></text>
+    <text x="320" y="296" text-anchor="end" font-size="16" font-weight="700" fill="#f1f5f9">9+ YRS</text>
+    <text x="360" y="296" font-size="16" font-weight="700" fill="#ec4899">MUG</text>
+    <text x="430" y="296" font-size="12.5" fill="#94a3b8">SHIPPING TO PRODUCTION SINCE 2017</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
+    <text x="450" y="352" text-anchor="middle" font-size="11" fill="#475569" letter-spacing="2">CREDITS: ∞ · ALL SCORES VERIFIED IN PROD</text>
+  </g>
+</svg>
